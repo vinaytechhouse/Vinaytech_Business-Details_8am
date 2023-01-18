@@ -1,9 +1,10 @@
+Mandatory topic for everyone.
+
 Why  am I explaining?
 
 Two purposes
 a) Most of the custom visuals code is in Github, to download and understand this knowledge is required.
 b) To know  about versioning processing process
-
 
 How do you get / deliver the documents to work on a project?
 
@@ -16,7 +17,7 @@ a) Github
 b) Sharepoint Server
 c) TFS [Team Foundation Server] 
 d) Clear Case 
-e) SVN [Sub Version] etc.
+etc.
 
 d) Email Share
 e) Folder Share
